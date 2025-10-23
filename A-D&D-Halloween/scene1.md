@@ -11,7 +11,7 @@ What will you do?
 
 - [Continue walking forward - the place is old its probably nothing important.](./scene2A.md)
 
-- [Hide behind one of the crates.]
+- [Hide behind one of the crates.](./scene2B.md)
 
-- [duck down close to the ground.]
+- [duck down close to the ground.](./scene2C.md)
 
