@@ -9,10 +9,9 @@ What will you do?
 
 
 
-Continue walking forward - the place is old its probably nothing important. 
+- Continue walking forward - the place is old its probably nothing important.
 
-Hide behind one of the crates.
+- [Hide behind one of the crates.]
 
-Duck down close to the ground.
-
+- [duck down close to the ground.]
 
