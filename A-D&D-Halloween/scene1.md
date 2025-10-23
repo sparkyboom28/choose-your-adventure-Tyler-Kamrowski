@@ -9,7 +9,7 @@ What will you do?
 
 
 
-- Continue walking forward - the place is old its probably nothing important.
+- [Continue walking forward - the place is old its probably nothing important.](./scene2A.md)
 
 - [Hide behind one of the crates.]
 
