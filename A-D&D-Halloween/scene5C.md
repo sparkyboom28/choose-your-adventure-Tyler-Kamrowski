@@ -1,0 +1,3 @@
+you go to the garden to pick up a good pumkin for trade after a lot of searching you find the biggest pumkin you had ever seen. you bring it back to him and he seems satisfied. he gives you the golden pumpkin and you head bac to the party. everyone is super supprised. and they tell you they thought it had been stolen they are very happy and they make golden pumpkin soup. it happens to be one of the best partys ever. 
+
+ending 6: the best ending

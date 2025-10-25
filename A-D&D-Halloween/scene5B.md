@@ -1,0 +1,3 @@
+as you are walking out the door you here the dragon yell wait! he thanks you for not trying to steal the golden pumpkin from him but informs you it has been stolen already. but as a thanks for being nice and bravery he give you a huge pumkin to bring back to your party. you walk back kto the party with the pumpkin and everyone seems super happy with what you brought back even though its not what they asked for. they inform you it was only for soup, and they found out the golden pumpkin was stolen as you walked in and sent you best friend in to tell you be he couldent find you and came back you have an amazing party that night with all the pumkin soup you could ever want. 
+
+ending 5: secret good ending 2.
