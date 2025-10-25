@@ -4,5 +4,5 @@ what do you do?
 
 - [slowly walk towards the glow](./scene5A.md)
 
-- [walk backwards from where you came you dont think this is a good idea](./scene5b.md)
+- [walk backwards from where you came you dont think this is a good idea](./scene5B.md)
 
