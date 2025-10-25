@@ -1,0 +1,3 @@
+he looks at you whih a welcoming smile. you recognize him its you best freind from the party. he tells you that he came to bring you back to the party becasue he found out that somebody had stolen the golden pumpkin before you arrived. but he tells you not to worry becasue we still can have fun without it, and they were just using it to make a fun soup. you head back to the party and everyone is waiting for you and you enjoy a nice pumkin soup and party all night.
+
+ending 3: the good ending

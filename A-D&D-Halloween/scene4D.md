@@ -1,0 +1,3 @@
+you sneak past the guy and head to the next room. you see nothing, its a dead end. you then wake up in your bed with your phone ringing you think to your self wait that golden pumpkin for the party wasent real? but then as you check you phone its one of your freinds form the party asking where you are. it wasent a dream and you are now sleeping. wake up brave travler there is still a quest ahead of you.
+
+ending 2: a bad dream?
