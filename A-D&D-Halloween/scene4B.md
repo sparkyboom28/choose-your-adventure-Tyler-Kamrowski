@@ -1,3 +1,3 @@
 you walk into the light path, quickly you realise it is a kitchen as you walk farther you see a spirit cooking somthing by the stove. he look be hind him and tells you not to worry he is a nice spirit and he says he knows your here for the golden pumpkin he shows you he has it sitting right next to him but requires one favor. go get him a pumpkin from outside for his soup and he will trade.
 
-- [go to scene 5C]
+- [go to scene 5C](./scene5C.md)
