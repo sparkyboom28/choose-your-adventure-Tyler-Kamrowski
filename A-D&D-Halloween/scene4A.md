@@ -2,6 +2,7 @@ you go down the dark path. it is very dark but you see a light at the end of the
 
 what do you do?
 
-- [slowly walk towards the glow]
+- [slowly walk towards the glow](./scene5A.md)
 
-- [walk backwards from where you came you dont think this is a good idea.]
+- [walk backwards from where you came you dont think this is a good idea](./scene5b.md)
+
