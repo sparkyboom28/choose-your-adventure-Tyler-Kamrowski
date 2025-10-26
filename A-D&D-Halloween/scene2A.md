@@ -1,3 +1,4 @@
-As you continue walking forward you see a big bolder fall from the celing. but before it hits you, you wake up back at the beginning right were you just were. 
+As you continue walking forward you see a big boulder fall from the celing. But before it hits you, you wake up back at the beginning right were you just were. 
 
-ending 1: confusion
+- [Ending 1: confusion](./scene1.md)
+

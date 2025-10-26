@@ -1,3 +1,3 @@
-you duck down. but you then see of giant bolder rolling straight towards you. without enough time to get out of the way, the bolder gets close but then you wake up right were you started. but something feels off.
+You duck down, but you then see of giant boulder rolling straight towards you. Without enough time to get out of the way, the boulder gets very close - and then then you wake up right were you started. Something feels off.
 
-- [continue to scene 3B](./scene3B.md)
+- [Clear your head and keep walking](./scene3B.md)
