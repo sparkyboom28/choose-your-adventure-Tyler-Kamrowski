@@ -2,4 +2,4 @@ You sneak past the guy and head to the next room. You see nothing, its a dead en
 
 **Wake up brave traveler, there is still a quest ahead of you.**
 
-#Ending 2: A bad dream?
+# Ending 2: A bad dream?
